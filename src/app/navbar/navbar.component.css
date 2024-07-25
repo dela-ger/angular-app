@@ -1,0 +1,22 @@
+.navbar {
+    display: flex;
+    padding: 1.2rem;
+    border: 1px red solid;
+}
+
+.logo {
+    margin-right: auto;
+    /* border: 1px rebeccapurple solid; */
+}
+
+.nav-links {
+    margin-left: auto;
+}
+.nav-links ul {
+    display: flex;
+    gap: 5rem;
+}
+
+.nav-links ul li {
+    /* padding: 1.2rem; */
+}
